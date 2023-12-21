@@ -44,19 +44,13 @@ ___
   **Creates a copy of a repository.**
   **Example:**
   ![gitclone](gitcommands/gitclone.png)
-- **`$ git commit -m [message]`**
-  **Takes the staged snapshot and commits it to the project history.**
+- **`$ git add [existing repository]`**
+  Adds a repo
   **Example:**
-  ![gitcommit](gitcommands/gitcommit.png)
-- **`$ git push`**
-  **Lets you move a local branch to another repository.**
+- `$ git `
+  loremipsum
   **Example:**
-  ![gitpush](gitcommands/gitpush.png)
 ___
-## Socials:
-[<img src="logos/twitterlogo.png" height="30em" align="center" alt="Follow me on Twiter!" title="Follow me on Twiter!"/>](https://twitter.com/jawnersaints) [<img src="logos/instalogo.webp" height="30em" align="center" alt="Follow me on Instagram!" title="Follow me on Instagram!"/>](https://www.instagram.com/jawnersby/) [<img src="logos/spotifylogo.webp" height="30em" align="center" alt="Follow my Spotify!" title="Follow my Spotify!"/>](https://open.spotify.com/user/22mp72vlyjfsa2jxzqanufp3a)
-
-___
-## Thanks for looking at my profile! :sparkling_heart:
+## <span style="font-family: 'Times'"> Thanks for looking at my profile! :sparkling_heart:
 
 ![end_emote](end_emote.gif)
