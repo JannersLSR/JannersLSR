@@ -59,7 +59,7 @@ ___
 - **`$ git config --global user.name "[name]"`**
   **Sets the name of the commit transactions.**
   **Example:**
-  ![gitconfig](gitcommands/gitconfig.png)
+  ![gitconfig](gitcommands/gitconfig.PNG)
 ___
 ## Socials:
 [<img src="logos/twitterlogo.png" height="30em" align="center" alt="Follow me on Twiter!" title="Follow me on Twiter!"/>](https://twitter.com/jawnersaints) [<img src="logos/instalogo.webp" height="30em" align="center" alt="Follow me on Instagram!" title="Follow me on Instagram!"/>](https://www.instagram.com/jawnersby/) [<img src="logos/spotifylogo.webp" height="30em" align="center" alt="Follow my Spotify!" title="Follow my Spotify!"/>](https://open.spotify.com/user/22mp72vlyjfsa2jxzqanufp3a)
