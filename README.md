@@ -11,11 +11,11 @@
 - **4th Year Information Technology Student** at Mapúa Malayan Colleges Laguna.
 - **Technical Focus:** Network Administration, Embedded Systems, and Full-Stack Web Development.
 - **Language Skills:** Proficient in reading/writing English and Conversational with Korean (Hangul).
-- **Interests:** Huge K-Pop enthusiast, Tech hobbyist
+- **Interests:** Huge K-Pop enthusiast, Tech hobbyist.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Kotlin, C/C++, x86 Assembly, C#, Java |
@@ -25,7 +25,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### [Clock-In](https://github.com/SuperficialFlow/ClockIn-Application-Demo) (Capstone) - 2025-2026
 *Project Manager & Lead Mobile Developer | Kotlin & Supabase* 
@@ -55,6 +55,9 @@
 *Backend Developer | JavaScript, HTML, & CSS*
 - Architected a scalable micro-blogging platform featuring real-time feeds, user authentication, and high-frequency database operations.
 
+### Social Sonyeo Search - 2026
+*Full Stack Developer*
+- TBD Hobby Project
 
 ### Low-Level Systems
 *Embedded & Systems Dev*
@@ -63,8 +66,8 @@
 ---
 
 ## 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL_HERE)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:johnrobert.formal@gmail.com?subject=Inquiry%20from%20GitHub%20Profile)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jannerslsr/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:johnrobert.formal@gmail.com)
 
 ---
 ![outro_banner](outro_banner.gif)
