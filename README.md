@@ -1,70 +1,71 @@
-![intro_banner](intro_banner.gif)
-
-<!--
-**JannersLSR/JannersLSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![intro_banner](intro_banner.jpg)
 
 
-# Hello I'm John Santos ✨✨
-### Also known as Jahn, Jawn, Jann, Janners... you get the idea. 
-___
-## About me:
-- **Currently an InfoTech student in MCL :smile:.**
-- **Somewhat literate enough to read code 😵‍💫.**
-- **Huge KPOP stan :notes: (some of my most fav groups: )**
-  - **TripleS (트리플에스)**
-  - **Fromis_9 (프로미스나인)**
-  - **Billlie (빌리)**
-  - **Dreamcatcher (드림캐쳐)**
-  - **Weeekly (위클리)**
-- **I can read Korean**
-___
-## Git Commands Cheat Sheet:
-#### Installing and Opening Git gives you access to Git Bash which is a shell application used to interface Git commands
-- **`$ git version`**
-  **Verifies that Git was installed in the system. Shows the Git Version.**
-  **Example:**
-  ![gitversion](gitcommands/gitversion.png)
-- **`$ git init [folder name]`**
-  **Initializes a new repository.**
-  **Example:**
-  ![gitinit](gitcommands/gitinit.png)
-- **`$ git clone [existing repository]`**
-  **Creates a copy of a repository.**
-  **Example:**
-  ![gitclone](gitcommands/gitclone.png)
-- **`$ git commit -m [message]`**
-  **Takes the staged snapshot and commits it to the project history.**
-  **Example:**
-  ![gitcommit](gitcommands/gitcommit.png)
-- **`$ git push`**
-  **Lets you move a local branch to another repository.**
-  **Example:**
-  ![gitpush](gitcommands/gitpush.png)
-- **`$ git status`**
-  **Examines the status of the branches.**
-  **Example:**
-  ![gitstatus](gitcommands/gitstatus.png)
-- **`$ git config --global user.name "[name]"`**
-  **Sets the name of the commit transactions.**
-  **Example:**
-  ![gitconfig](gitcommands/gitconfig.PNG)
-___
-## Socials:
-[<img src="logos/twitterlogo.png" height="30em" align="center" alt="Follow me on Twiter!" title="Follow me on Twiter!"/>](https://twitter.com/jawnersaints) [<img src="logos/instalogo.webp" height="30em" align="center" alt="Follow me on Instagram!" title="Follow me on Instagram!"/>](https://www.instagram.com/jawnersby/) [<img src="logos/spotifylogo.webp" height="30em" align="center" alt="Follow my Spotify!" title="Follow my Spotify!"/>](https://open.spotify.com/user/22mp72vlyjfsa2jxzqanufp3a)
+# Hello, I'm John Robert Santos
+### Aspiring Network Administrator & Software Developer
+### Full-Stack Developer | BSIT Senior @ Mapúa MCL
+ 
+---
 
-___
-## Thanks for looking at my profile! :sparkling_heart:
+## About Me
+- **4th Year Information Technology Student** at Mapúa Malayan Colleges Laguna.
+- **Technical Focus:** Network Administration, Embedded Systems, and Full-Stack Web Development.
+- **Language Skills:** Proficient in reading/writing English and Conversational with Korean (Hangul).
+- **Interests:** Huge K-Pop enthusiast, Tech hobbyist
 
-![end_emote](end_emote.gif)
+---
+
+## 🛠️ Technical Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Kotlin, C/C++, x86 Assembly, C#, Java |
+| **Web & Database** | ASP.NET, Supabase (PostgreSQL), SQL, Processing |
+| **Hardware/IoT** | Arduino, FreeRTOS, BLE Beacons |
+| **Tools** | Git, GitHub, Linux, Cisco Packet Tracer |
+
+---
+
+## 📂 Featured Projects
+
+### [Clock-In](https://github.com/SuperficialFlow/ClockIn-Application-Demo) (Capstone) - 2025-2026
+*Project Manager & Lead Mobile Developer | Kotlin & Supabase* 
+- Developed a multi-factor authentication system using **BLE Beacons**, **QR Codes**, and **WiFi** to automate secure employee tracking.
+
+### [Rubik’s Cube Cipher](https://github.com/JannersLSR/Rubik-s-Cube-Cipher) (Thesis Paper) - November 2025
+*Security Researcher & Lead Developer | Python*
+- Engineered a custom cryptographic algorithm in **Python** by simulating bit-level Rubik's Cube rotations for data obfuscation.
+
+### [Cryptool](https://github.com/jp-gerona/cryptool) - March 2025
+*Backend Developer | ASP.NET, SQL, & C#*
+- Implemented a modular codebase allowing for efficient processing of encryption and decryption tasks.
+
+### [Tic-Tac-Toe in Assembly](https://github.com/JannersLSR/Tic-Tac-Toe-in-Assembly) - November 2024
+*Lead Developer | x86 Assembly*
+- •	Implemented a fully functional Tic-Tac-Toe game using **x86 Assembly** language, managing direct hardware interactions and memory addressing.
+
+### [CCIS Week 2024 Dashboard](https://github.com/JannersLSR/CCIS_Week_Dashboard) - July 2024
+*Full Stack Developer | JavaScript, HTML, & CSS*
+- Developed a centralized even management dashboard using **Oracle DB** and **Node.js**, enabling real-time tracking of student participation and events scheduling.
+
+### [Jukeboxd](https://github.com/jp-gerona/Jukeboxd) - February 2024
+*Full-Stack Developer | ASP.NET, SQL, & C#*
+- Built a specialized e-commerce platform for vinyl collectors with dual-interface (Admin/Client) and robust relational database management.
+
+### [Orbit](https://github.com/jp-gerona/Orbit) - February 2024
+*Backend Developer | JavaScript, HTML, & CSS*
+- Architected a scalable micro-blogging platform featuring real-time feeds, user authentication, and high-frequency database operations.
+
+
+### Low-Level Systems
+*Embedded & Systems Dev*
+- **RTOS:** Built a Rock-Paper-Scissors game using **FreeRTOS** for real-time task scheduling on Arduino.
+
+---
+
+## 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL_HERE)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:johnrobert.formal@gmail.com?subject=Inquiry%20from%20GitHub%20Profile)
+
+---
+![outro_banner](outro_banner.gif)
+### [*“우리는 하나이자 스물넷 입니다”*](https://www.youtube.com/watch?v=TVrdkrqpBV4)
