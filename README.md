@@ -47,6 +47,10 @@
 *Full Stack Developer | JavaScript, HTML, & CSS*
 - Developed a centralized even management dashboard using **Oracle DB** and **Node.js**, enabling real-time tracking of student participation and events scheduling.
 
+### [PokedexCards](https://github.com/BirdBrain34/PokedexCards) - July 2024
+*Full Stack Developer | C# & PHP*
+- Developed a database of Pokémon cards using **C#** and **PHP** for streamlined tracking of information.
+
 ### [Jukeboxd](https://github.com/jp-gerona/Jukeboxd) - February 2024
 *Full-Stack Developer | ASP.NET, SQL, & C#*
 - Built a specialized e-commerce platform for vinyl collectors with dual-interface (Admin/Client) and robust relational database management.
