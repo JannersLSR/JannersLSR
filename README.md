@@ -59,7 +59,7 @@
 *Backend Developer | JavaScript, HTML, & CSS*
 - Architected a scalable micro-blogging platform featuring real-time feeds, user authentication, and high-frequency database operations.
 
-### Social Sonyeo Search - 2026
+### [Social Sonyeo Search](https://github.com/JannersLSR/Social-Sonyeo-Search) - 2026
 *Full Stack Developer*
 - TBD Hobby Project
 
