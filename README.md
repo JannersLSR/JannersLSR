@@ -4,7 +4,9 @@
 # Hello, I'm John Robert Santos
 ### Aspiring Network Administrator & Software Developer
 ### Full-Stack Developer | BSIT Senior @ Mapúa MCL
- 
+
+**Live Terminal Portfolio → [jannerslsr.github.io](https://jannerslsr.github.io)**
+
 ---
 
 ## About Me
@@ -18,14 +20,29 @@
 ## Technical Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Kotlin, C/C++, x86 Assembly, C#, Java |
-| **Web & Database** | ASP.NET, Supabase (PostgreSQL), SQL, Processing |
-| **Hardware/IoT** | Arduino, FreeRTOS, BLE Beacons |
-| **Tools** | Git, GitHub, Linux, Cisco Packet Tracer |
+| **Languages** | Python, PHP, Java, C#, C++, Kotlin, JavaScript, TypeScript, x86 Assembly |
+| **Frontend** | HTML, CSS, Tailwind CSS 4, React 19, Next.js 16, Shadcn UI (Radix UI), Lucide React |
+| **Backend & DB** | ASP.NET, SQL, MySQL, PostgreSQL, Supabase, Firebase, Laravel Echo |
+| **State & Data** | Zustand, TanStack React Query, TanStack Table, TanStack React Form, Axios |
+| **Validation** | Zod |
+| **Animation & UI** | motion (Framer Motion), Recharts, Sonner, @dnd-kit, next-themes |
+| **IoT & Embedded** | Arduino, FreeRTOS, BLE Beacons |
+| **DevOps & Tools** | Git, GitHub, Linux, Docker, Docker Compose, Composer, Laravel Sail |
+| **Platforms** | Android Studio, Cisco Packet Tracer |
+| **Realtime** | Laravel Echo, Pusher |
+| **Desktop & Media** | Tkinter, FFmpeg, Pillow, tkinterdnd2 |
 
 ---
 
 ## Featured Projects
+
+### EAP — Employee Assistance Portal *(Private)* - 2026
+*Full Stack Developer | TypeScript, JavaScript, PHP, Laravel*
+- HRIS management website for **MPIRE Corporate Group Incorporated**. TypeScript/React front end on **Next.js 16** with a **PHP Laravel** back end. *(Private repository)*
+
+### [AIO Media Converter](https://github.com/JannersLSR/aio-media-converter) - 2026
+*Lead Developer | Python, Tkinter, FFmpeg*
+- High-performance desktop app for batch cross-converting media files. Multithreaded pipeline with real-time progress, drag-and-drop, and a transcode history log.
 
 ### [Clock-In](https://github.com/SuperficialFlow/ClockIn-Application-Demo) (Capstone) - 2025-2026
 *Project Manager & Lead Mobile Developer | Kotlin & Supabase* 
@@ -41,11 +58,11 @@
 
 ### [Tic-Tac-Toe in Assembly](https://github.com/JannersLSR/Tic-Tac-Toe-in-Assembly) - November 2024
 *Lead Developer | x86 Assembly*
-- •	Implemented a fully functional Tic-Tac-Toe game using **x86 Assembly** language, managing direct hardware interactions and memory addressing.
+- Implemented a fully functional Tic-Tac-Toe game using **x86 Assembly** language, managing direct hardware interactions and memory addressing.
 
 ### [CCIS Week 2024 Dashboard](https://github.com/JannersLSR/CCIS_Week_Dashboard) - July 2024
 *Full Stack Developer | JavaScript, HTML, & CSS*
-- Developed a centralized even management dashboard using **Oracle DB** and **Node.js**, enabling real-time tracking of student participation and events scheduling.
+- Developed a centralized event management dashboard using **Oracle DB** and **Node.js**, enabling real-time tracking of student participation and event scheduling.
 
 ### [PokedexCards](https://github.com/BirdBrain34/PokedexCards) - July 2024
 *Full Stack Developer | C# & PHP*
@@ -69,7 +86,8 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
+[<img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=archlinux&logoColor=black" />](https://jannerslsr.github.io)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jannerslsr/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:johnrobert.formal@gmail.com)
 
