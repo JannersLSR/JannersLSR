@@ -20,17 +20,17 @@
 ## Technical Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, PHP, Java, C#, C++, Kotlin, JavaScript, TypeScript, x86 Assembly |
-| **Frontend** | HTML, CSS, Tailwind CSS 4, React 19, Next.js 16, Shadcn UI (Radix UI), Lucide React |
-| **Backend & DB** | ASP.NET, SQL, MySQL, PostgreSQL, Supabase, Firebase, Laravel Echo |
-| **State & Data** | Zustand, TanStack React Query, TanStack Table, TanStack React Form, Axios |
-| **Validation** | Zod |
-| **Animation & UI** | motion (Framer Motion), Recharts, Sonner, @dnd-kit, next-themes |
-| **IoT & Embedded** | Arduino, FreeRTOS, BLE Beacons |
-| **DevOps & Tools** | Git, GitHub, Linux, Docker, Docker Compose, Composer, Laravel Sail |
+| **Animation & UI** | @dnd-kit, motion (Framer Motion), next-themes, Recharts, Sonner |
+| **Backend & DB** | ASP.NET, Firebase, Laravel Echo, MySQL, PostgreSQL, SQL, Supabase |
+| **Desktop & Media** | FFmpeg, Pillow, Tkinter, tkinterdnd2 |
+| **DevOps & Tools** | Composer, Docker, Docker Compose, Git, GitHub, Laravel Sail, Linux |
+| **Frontend** | CSS, HTML, Lucide React, Next.js 16, React 19, Shadcn UI (Radix UI), Tailwind CSS 4 |
+| **IoT & Embedded** | Arduino, BLE Beacons, FreeRTOS |
+| **Languages** | C#, C++, Java, JavaScript, Kotlin, PHP, Python, TypeScript, x86 Assembly |
 | **Platforms** | Android Studio, Cisco Packet Tracer |
 | **Realtime** | Laravel Echo, Pusher |
-| **Desktop & Media** | Tkinter, FFmpeg, Pillow, tkinterdnd2 |
+| **State & Data** | Axios, TanStack React Form, TanStack React Query, TanStack Table, Zustand |
+| **Validation** | Zod |
 
 ---
 
@@ -40,15 +40,23 @@
 *Full Stack Developer | TypeScript, JavaScript, PHP, Laravel*
 - HRIS management website for **MPIRE Corporate Group Incorporated**. TypeScript/React front end on **Next.js 16** with a **PHP Laravel** back end. *(Private repository)*
 
+### [Sliding Block Puzzle Cipher](https://github.com/JannersLSR/Sliding-Block-Puzzle-Cipher) - 2026
+*Security Researcher & Lead Developer | JavaScript, React, & Vite*
+- Cryptographic tool using a **sliding tile puzzle** as the encryption key — move sequences generate byte permutations to encode messages.
+
 ### [AIO Media Converter](https://github.com/JannersLSR/aio-media-converter) - 2026
 *Lead Developer | Python, Tkinter, FFmpeg*
 - High-performance desktop app for batch cross-converting media files. Multithreaded pipeline with real-time progress, drag-and-drop, and a transcode history log.
 
+### [Social Sonyeo Search](https://github.com/JannersLSR/Social-Sonyeo-Search) - 2026
+*Full Stack Developer*
+- TBD Hobby Project
+
 ### [Clock-In](https://github.com/SuperficialFlow/ClockIn-Application-Demo) (Capstone) - 2025-2026
-*Project Manager & Lead Mobile Developer | Kotlin & Supabase* 
+*Project Manager & Lead Mobile Developer | Kotlin & Supabase*
 - Developed a multi-factor authentication system using **BLE Beacons**, **QR Codes**, and **WiFi** to automate secure employee tracking.
 
-### [Rubik’s Cube Cipher](https://github.com/JannersLSR/Rubik-s-Cube-Cipher) (Thesis Paper) - November 2025
+### [Rubik's Cube Cipher](https://github.com/JannersLSR/Rubik-s-Cube-Cipher) (Thesis Paper) - November 2025
 *Security Researcher & Lead Developer | Python*
 - Engineered a custom cryptographic algorithm in **Python** by simulating bit-level Rubik's Cube rotations for data obfuscation.
 
@@ -76,10 +84,6 @@
 *Backend Developer | JavaScript, HTML, & CSS*
 - Architected a scalable micro-blogging platform featuring real-time feeds, user authentication, and high-frequency database operations.
 
-### [Social Sonyeo Search](https://github.com/JannersLSR/Social-Sonyeo-Search) - 2026
-*Full Stack Developer*
-- TBD Hobby Project
-
 ### Low-Level Systems
 *Embedded & Systems Dev*
 - **RTOS:** Built a Rock-Paper-Scissors game using **FreeRTOS** for real-time task scheduling on Arduino.
@@ -93,4 +97,4 @@
 
 ---
 ![outro_banner](outro_banner.gif)
-### [*“우리는 하나이자 스물넷 입니다”*](https://www.youtube.com/watch?v=TVrdkrqpBV4)
+### [*"우리는 하나이자 스물넷 입니다"*](https://www.youtube.com/watch?v=TVrdkrqpBV4)
