@@ -38,7 +38,7 @@
 
 ### EAP — Employee Assistance Portal *(Private)* - 2026
 *Full Stack Developer | TypeScript, JavaScript, PHP, Laravel*
-- HRIS management website for **MPIRE Corporate Group Incorporated**. TypeScript/React front end on **Next.js 16** with a **PHP Laravel** back end. *(Private repository)*
+- HRIS management website for **The Golden Bell Future Incorporated**. TypeScript/React front end on **Next.js 16** with a **PHP Laravel** back end. *(Private repository)*
 
 ### [Sliding Block Puzzle Cipher](https://github.com/JannersLSR/Sliding-Block-Puzzle-Cipher) - 2026
 *Security Researcher & Lead Developer | JavaScript, React, & Vite*
